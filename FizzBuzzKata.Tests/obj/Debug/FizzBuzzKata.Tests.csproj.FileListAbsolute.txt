@@ -1,0 +1,13 @@
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.Tests.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.Tests.pdb
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.core.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.core.interfaces.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.framework.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.util.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.pdb
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.framework.xml
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.csprojResolveAssemblyReference.cache
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.pdb

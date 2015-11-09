@@ -1,0 +1,6 @@
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.dll.config
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.csprojResolveAssemblyReference.cache
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.dll
+c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
