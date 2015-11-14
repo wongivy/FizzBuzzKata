@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 
 namespace FizzBuzzKata.Tests
 {
@@ -11,45 +6,35 @@ namespace FizzBuzzKata.Tests
     public class FizzBuzzKataTests
     {
         private Game game;
-        private string result;
+        private string output;
 
-        [TestFixtureSetUp]
+        [SetUp]
         public void CreateGame()
         {
             game = new Game();
-            result = "";
+            game.Solve();
         }
 
-        [Test]
-        public void ShouldReturnOne()
+        [TestCase(0, null)]
+        [TestCase(1, "1")]
+        [TestCase(2, "2")]
+        [TestCase(3, "Fizz")]
+        [TestCase(4, "4")]
+        [TestCase(5, "Buzz")]
+        [TestCase(6, "Fizz")]
+        [TestCase(9, "Fizz")]
+        [TestCase(10, "Buzz")]
+        [TestCase(15, "FizzBuzz")]
+        [TestCase(30, "FizzBuzz")]
+        [TestCase(23, "Fizz")]
+        [TestCase(35, "Fizz")]
+        [TestCase(53, "Fizz")]
+        [TestCase(58, "Buzz")]
+        [TestCase(101, null)]
+        public void TestGame(int input, string result)
         {
-            game.SetRange(1);
-            result = game.Print();
-            Assert.That(result, Is.EqualTo("1, "));
-        }
-
-        [Test]
-        public void ShouldReturnThreeAsFizz()
-        {
-            game.SetRange(3);
-            result = game.Print();
-            Assert.That(result, Is.EqualTo("1, 2, Fizz, "));
-        }
-
-        [Test]
-        public void ShouldReturnFiveAsBuzz()
-        {
-            game.SetRange(5);
-            result = game.Print();
-            Assert.That(result, Is.EqualTo("1, 2, Fizz, 4, Buzz, "));
-        }
-
-        //[Test]
-        public void ShouldReturnFifteenAsFizzBuzz()
-        {
-            game.SetRange(15);
-            result = game.Print();
-
+            output = game.OutputForNumber(input);
+            Assert.That(output, Is.EqualTo(result));
         }
     }
 }

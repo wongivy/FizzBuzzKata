@@ -11,3 +11,16 @@ c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tes
 c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.csprojResolveAssemblyReference.cache
 c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.dll
 c:\users\ivy\documents\visual studio 2015\Projects\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.pdb
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.csprojResolveAssemblyReference.cache
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.Tests.dll
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.Tests.pdb
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.dll
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.core.dll
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.framework.dll
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.util.dll
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.pdb
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.dll
+C:\Users\IvyW\Documents\FizzBuzzKata\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.pdb
